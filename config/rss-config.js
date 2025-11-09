@@ -79,8 +79,8 @@ export const config = {
       category: "论坛",
     },
     {
-      name: "LINUX DO 近一周热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=weekly",
+      name: "豆瓣小组-读书交流组",
+      url: "https://rsshub.app/douban/group/dushujiaoliu/essence",
       category: "论坛",
     },
     {
